@@ -59,6 +59,9 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+## Output
+![Image](https://github.com/user-attachments/assets/4802572d-b7ef-4cd3-91b7-4a830e72d18d)
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
